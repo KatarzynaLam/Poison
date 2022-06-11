@@ -1,2 +1,3 @@
 # Poison
 Project for University Course named "Basics of Computer Programming"
+A program that deals cards out to all of the players in the general version of the game Poison. Originally for 3 to 6 players, which insert cards into 3 cauldrons (piles of cards) and hence we have 4 colors, i.e., green, blue, red and violet. Green cards have value 4. Values of 14 cards of a given color are equal to 1, 1, 1, 2, 2, 2, 4, 4, 5, 5, 5, 7, 7, 7. In the general version, ranges of parameters are wider.
